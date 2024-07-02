@@ -31,6 +31,6 @@ jobs:
         source_file: 'slide/site/.'
         destination_repo: 'Yusux/slides'
         destination_branch: 'main'
-        destination_folder: 'ZJUSCT-HPCM-Slides'
+        destination_folder: 'ZJUSCT-HPC-Methodology-Slides'
         user_email: 'syusux@gmail.com'
         user_name: 'yusux'
