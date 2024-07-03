@@ -93,22 +93,6 @@ revealOptions:
 
 <!--v-->
 
-## Software: Implementation of Models
-
-- Host OS
-    - Compute Library
-    - BLAS, FFT
-    - OpenMP, pthreads, TBB, Intel MKL, Nvidia CUDA
-    - ...
-- Storage
-    - File System: Local, Remote, Distributed
-    - ...
-- Communication Library
-    - MPI, Gloo, NCCL
-    - ...
-
-<!--v-->
-
 ## Hardware: Operated by Software
 
 - Server
@@ -1066,7 +1050,7 @@ Domain Specific Language
 
 <!--v-->
 
-### Discussion: Is Parameter-tuning Optimization?
+### Is Parameter-tuning Optimization?
 
 - Adapts general code to local machine
 - Auto-tuning
@@ -1253,7 +1237,7 @@ Need to read relevant literature to understand the efforts of predecessors
 
 <!--v-->
 
-## Manual Compilating and Linking of Dependent Programs
+## Manual Compilating and Linking of Programs
 
 - Understand the compilation process
 - Configure the compilation and running environment
@@ -1261,7 +1245,7 @@ Need to read relevant literature to understand the efforts of predecessors
 
 <!--v-->
 
-## Parallel Program Design, Testing and Optimization
+## Parallel Program Design, Testing and Opt.
 
 - Design
 - Test
